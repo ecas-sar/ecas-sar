@@ -1,16 +1,16 @@
-## Hi there 👋
+## Edward Cassar
 
-<!--
-**ecas-sar/ecas-sar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University of Manchester, B.Sc. Computer Science and Mathematics (CM)
+Grade for First Year: First Class (77%)
 
-Here are some ideas to get you started:
+**Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dungeon Slayer:
+- Game randomises traps and walls in a layout where a bat chases the player.
+- Drew custom sprites and animated them all.
+- Implemented smooth movement and dashing.
+
+Hole in the Wall:
+- Game randomises enemy placement and makes them go across the screen.
+- Made pausing and saving functionality.
+- Made a leaderboard for each time that the player attempts the game.
